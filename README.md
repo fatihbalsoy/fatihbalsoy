@@ -5,4 +5,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=fatihbalsoy" alt="Fatih Balsoy"/>
 
-![Muhammet's Github stats](https://github-readme-stats.vercel.app/api?username=fatihbalsoy&show_icons=true)
+![Muhammet's Github stats](https://github-readme-stats.vercel.app/api?username=fatihbalsoy&show_icons=true&count_private=true&bg_color=0E1116&text_color=fff&hide_border=true)
