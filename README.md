@@ -1,1 +1,1 @@
-![image](https://github.com/fatihbalsoy/fatihbalsoy/blob/master/dino.gif)
+<!-- ![image](https://github.com/fatihbalsoy/fatihbalsoy/blob/master/dino.gif) -->
